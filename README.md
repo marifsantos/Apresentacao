@@ -17,6 +17,6 @@ Sou uma estudante de Ciência da Computação apaixonada por tecnologia e organi
 
 ### 📫 Como me encontrar
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marinafransant@gmail.com)](mailto:marinafransant@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marinafrançasantos)](www.linkedin.com/in/marinafrançasantos)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marinafran%C3%A7asantos/)](https://www.linkedin.com/in/marinafran%C3%A7asantos/)  
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5511984226865)](https://wa.me/5511984226865)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/marifsantos._/)](https://www.instagram.com/marifsantos._/)  
